@@ -12,16 +12,34 @@ All recipes in this repository are **scaled for a family of 5** (2 adults, 3 chi
 - Protein targets are generally **750g - 1kg** per meal.
 - Rice portions are scaled for high-volume consumption.
 
-## 📂 Structure
-- `/filipino`: Traditional household staples (Adobo, Nilaga, etc.).
-- `/korean`: Bibimbap and other regional favorites.
-- `/instant-pot`: Optimized pressure cooker recipes for efficiency.
-- `/drafts`: Experimental recipes or those currently being refined.
+## 📂 Recipes
+All recipes live as flat `.md` files in the repo root:
+
+| Recipe | File |
+|--------|------|
+| Beef Nilaga (Instant Pot) | `beef-nilaga.md` |
+| Braised Pork Ribs | `braised-pork-ribs.md` |
+| Champorado (Rolled Oats) | `champorado-rolled-oats.md` |
+| Chicken Binakol (Instant Pot) | `chicken-binakol.md` |
+| Chicken Curry (Gata-based) | `chicken-curry.md` |
+| Chicken Pastel | `chicken-pastel.md` |
+| Classic Pork/Chicken Adobo | `classic-pork-chicken-adobo.md` |
+| Egg Drop Soup (Corn & Crab Sticks) | `egg-drop-soup.md` |
+| Humba (Visayan Style) | `humba.md` |
+| Instant Pot Munggo | `instant-pot-munggo.md` |
+| IP Pork Humba (Shortcut) | `ip-pork-humba-shortcut.md` |
+| Korean Bibimbap (Pork Kasim) | `korean-bibimbap-pork-kasim.md` |
+| Lugaw (Instant Pot / Stovetop) | `lugaw.md` |
+| Max's Style Fried Chicken | `maxs-style-fried-chicken.md` |
+| Pinoy Bistek | `pinoy-bistek.md` |
+| Sauteed Talong with Ground Pork | `sauteed-talong-ground-pork.md` |
+| Sopas (Chicken & Corned Beef) | `sopas-chicken-corned-beef.md` |
 
 ## 🛠 Usage Tips
-- **Search:** Use `grep` or `ripgrep` to find recipes by ingredient.
+- **Search:** Use the included lookup script to find recipes by ingredient or name:
   ```bash
-  grep -r "Pork Kasim" .
+  ./lookup.sh "pork kasim"
+  ```
 
 ## ⚡ Hardware Settings
 - **Induction:** Most stir-fry and searing should happen at medium-high (1600W-2000W / 180°C-200°C). For simmering (Adobo/Bistek), drop to 400W-600W.

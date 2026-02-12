@@ -1,14 +1,3 @@
----
-title: "You said  Help reverse engineer my wife's humba: ..."
-source: "https://gemini.google.com/app/f7346c75d0de2fba?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all"
-author:
-  - "[[Gemini]]"
-published:
-created: 2026-02-13
-description: "Meet Gemini, Google's AI assistant. Get help with writing, planning, brainstorming and more. Experience the power of generative AI."
-tags:
-  - "clippings"
----
 ### Rolled Oats Champorado (Serves 5)
 
 **Ingredients**
@@ -31,5 +20,3 @@ tags:
 6. **Serve:** Ladle into bowls and top with evaporated or condensed milk.
 
 **Texture Check:** Rolled oats retain a "chewy" texture unlike the mush of quick oats. Done when oats are soft but distinct.
-
-![profile picture](https://lh3.googleusercontent.com/a/ACg8ocKbjedWXWwy4_MdDvxfgSH4HD3UZAaSatX47AMR5Ft9I1XXQdg=s64-c-v1-rj)

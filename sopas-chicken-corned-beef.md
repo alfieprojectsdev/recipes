@@ -1,14 +1,3 @@
----
-title: "You said  All right, that's breakfast. How about ..."
-source: "https://gemini.google.com/app/b9f49481f8845df9?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all"
-author:
-  - "[[Gemini]]"
-published:
-created: 2026-02-13
-description: "Meet Gemini, Google's AI assistant. Get help with writing, planning, brainstorming and more. Experience the power of generative AI."
-tags:
-  - "clippings"
----
 ### **Sopas (Corned Beef or Chicken)**
 
 *Yield: 5 Servings | Prep time: 10 mins | Cook time: 25 mins*
@@ -47,6 +36,3 @@ tags:
 - **Pechay:** Using both stalks (for crunch) and leaves (for bulk) eliminates the need for celery or cabbage.
 - **Corned Beef:** Provides built-in salt and fat, requiring less manual seasoning than chicken.
 
-Would you like me to adjust the measurements for a specific pot size or provide a quick "order of operations" for the Bibimbap prep while this simmers?
-
-![profile picture](https://lh3.googleusercontent.com/a/ACg8ocKbjedWXWwy4_MdDvxfgSH4HD3UZAaSatX47AMR5Ft9I1XXQdg=s64-c-v1-rj)

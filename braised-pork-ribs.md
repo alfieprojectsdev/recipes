@@ -1,14 +1,3 @@
----
-title: "You said  Sopas recipe"
-source: "https://gemini.google.com/app/b9f49481f8845df9?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all"
-author:
-  - "[[Gemini]]"
-published:
-created: 2026-02-13
-description: "Meet Gemini, Google's AI assistant. Get help with writing, planning, brainstorming and more. Experience the power of generative AI."
-tags:
-  - "clippings"
----
 ### **Braised Pork Ribs**
 
 *Yield: 5 Servings | Prep time: 10 mins | Cook time: 1.5–2 hours*
@@ -47,6 +36,3 @@ tags:
 - **Texture:** For "fall-off-the-bone" ribs, ensure the simmer is low and slow; boiling too hard can toughen the meat fibers.
 - **Advance Prep:** This dish tastes better the next day as the flavors penetrate the bone; can be stored in the fridge and reheated easily.
 
-Would you like me to provide a quick list of vegetable side dishes that pair well with this, such as steamed bok choy or buttered corn?
-
-![profile picture](https://lh3.googleusercontent.com/a/ACg8ocKbjedWXWwy4_MdDvxfgSH4HD3UZAaSatX47AMR5Ft9I1XXQdg=s64-c-v1-rj)

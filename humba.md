@@ -1,14 +1,3 @@
----
-title: "You said  Help reverse engineer my wife's humba: ..."
-source: "https://gemini.google.com/app/f7346c75d0de2fba?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all"
-author:
-  - "[[Gemini]]"
-published:
-created: 2026-02-13
-description: "Meet Gemini, Google's AI assistant. Get help with writing, planning, brainstorming and more. Experience the power of generative AI."
-tags:
-  - "clippings"
----
 ### Humba for 5 (Visayan Style)
 
 **Ingredients**
@@ -38,5 +27,3 @@ tags:
 4. **Reduce (Crucial Step):** Remove the lid. Simmer on medium-high heat (approx 90°C–100°C) for 15–20 minutes.
 5. **Finish:** Cook until the sauce thickens into a syrupy glaze and the natural oil from the pork separates/floats on top.
 6. **Serve:** Best served with hot rice to balance the rich sauce.
-
-![profile picture](https://lh3.googleusercontent.com/a/ACg8ocKbjedWXWwy4_MdDvxfgSH4HD3UZAaSatX47AMR5Ft9I1XXQdg=s64-c-v1-rj)
