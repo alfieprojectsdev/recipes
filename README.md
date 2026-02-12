@@ -22,3 +22,8 @@ All recipes in this repository are **scaled for a family of 5** (2 adults, 3 chi
 - **Search:** Use `grep` or `ripgrep` to find recipes by ingredient.
   ```bash
   grep -r "Pork Kasim" .
+
+## ⚡ Hardware Settings
+- **Induction:** Most stir-fry and searing should happen at medium-high (1600W-2000W / 180°C-200°C). For simmering (Adobo/Bistek), drop to 400W-600W.
+- **Instant Pot:** Always ensure the sealing ring is seated. Use "Natural Release" for meats to keep them tender; "Quick Release" for veggies to avoid mushiness.
+- **Air-Dry Rule:** For the Max's Style Chicken, use your induction stove's high-heat stability for the flash-fry, but ensure the chicken is bone-dry first to avoid oil splatter.
