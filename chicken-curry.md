@@ -1,28 +1,26 @@
-### **Pinoy Chicken Curry**
+### **The "Laksa-Style" Chicken Curry**
 
-*Yield: 5-6 Servings | Prep time: 15 mins | Cook time: 30 mins*
+*Serves 5 | Prep time: 10 mins | Cook time: 20-25 mins*
 
-## ingredients
+---
 
-* 1 kg Chicken (thighs or drumsticks preferred)
-* 2 cups Coconut milk (Gata)
-* 3 tbsp Curry powder
-* 2 large Potatoes & 1 large Carrot (cubed)
-* 1 Red bell pepper (sliced)
-* 2-inch Ginger (julienned), 1 Onion, 4 cloves Garlic
-* 2 tbsp Fish sauce (patis)
-* 1 small piece Siling labuyo (optional, for heat)
+### **Ingredients**
 
-## instructions
+* **Chicken:** 800g breast fillet, cut into bite-sized cubes.
+* **The Base:** Laksa paste (use 3–4 tbsp depending on your spice tolerance).
+* **The Cream:** 1 can (400ml) Coconut Milk.
+* **The Veggies:** 2 small potatoes and 2 small carrots, peeled and cubed (keep them similar in size to the chicken for even cooking).
+* **Aromatics:** 1 onion (diced) and 3–4 cloves garlic (minced). *If you have that tiny bit of ginger, mince it finely and throw it in; if not, the paste has you covered.*
+* **Liquid:** 1 cup water or chicken stock (to thin the sauce).
+* **Seasoning:** Fish sauce or salt, and a pinch of sugar to balance the heat.
 
-1. **Sear:** On induction (**Medium-High / 1800W**), fry potatoes and carrots until edges are lightly browned; set aside.
-2. **Saute:** In the same pan, saute ginger, garlic, and onion. Add the chicken and cook until the outer layer is no longer pink.
-3. **Season:** Stir in the curry powder and fish sauce. Ensure the chicken is well-coated.
-4. **Simmer:** Pour in the coconut milk. Drop heat to **Low-Medium (600W-800W)**. Simmer for 15–20 minutes until the chicken is tender.
-5. **Finish:** Add back the potatoes, carrots, and bell peppers. Simmer for another 5 minutes until the sauce thickens and veggies are soft.
+---
 
-## additional notes / alternative ingredients
+### **Cooking Instructions**
 
-* **Alt:** For a thicker sauce, you can mash one of the cooked potato cubes into the curry.
-* **Sub:** If using canned coconut cream (unang piga), add a little water during the initial simmer and save the thickest cream for the last 5 minutes.
-
+1. **Sear the Veggies:** In a large pan or pot, heat a little oil. Fry the potato and carrot cubes until the edges are slightly golden. Remove them and set aside. (This prevents them from turning into mush later).
+2. **Bloom the Paste:** In the same pot, sauté your onions and garlic (and ginger, if using). Add the **laksa paste** and fry it for 1–2 minutes until it smells incredible and the oil starts to separate.
+3. **Brown the Chicken:** Add the chicken cubes. Stir-coat them in the paste and cook until the outside is no longer pink.
+4. **Simmer:** Pour in the coconut milk and the cup of water/stock. Bring to a gentle simmer (don't let it boil vigorously or the coconut milk might separate).
+5. **The Stretch:** Add the potatoes and carrots back in. Cover and simmer for about 10–12 minutes, or until the veggies are fork-tender and the chicken is cooked through.
+6. **The Finish:** Taste the sauce. Laksa paste is salty, but you might need a splash of fish sauce or a pinch of salt. A teaspoon of sugar will help round out the spice.
