@@ -30,6 +30,7 @@ All recipes live as flat `.md` files in the repo root:
 | Munggo with Pata & Kalabasa (Stovetop PC) | `munggo-pata-kalabasa-stovetop.md` |
 | IP Pork Humba (Shortcut) | `ip-pork-humba-shortcut.md` |
 | IP Bistek (No-Marinade Shortcut) | `ip-bistek-shortcut.md` |
+| IP Pork Sinigang (Liempo, Make-Ahead) | `ip-pork-sinigang-liempo.md` |
 | Korean Bibimbap (Pork Kasim) | `korean-bibimbap-pork-kasim.md` |
 | Lugaw (Instant Pot / Stovetop) | `lugaw.md` |
 | Max's Style Fried Chicken | `maxs-style-fried-chicken.md` |
