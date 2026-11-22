@@ -21,7 +21,7 @@ All recipes live as flat `.md` files in the repo root:
 | Braised Pork Ribs | `braised-pork-ribs.md` |
 | Champorado (Rolled Oats) | `champorado-rolled-oats.md` |
 | Chicken Binakol (Instant Pot) | `chicken-binakol.md` |
-| Chicken Curry (Gata-based) | `chicken-curry.md` |
+| Chicken Curry (Creamy Laksa-Style) | `chicken-curry.md` |
 | Chicken Pastel | `chicken-pastel.md` |
 | Classic Pork/Chicken Adobo | `classic-pork-chicken-adobo.md` |
 | Egg Drop Soup (Corn & Crab Sticks) | `egg-drop-soup.md` |
